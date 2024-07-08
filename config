@@ -2,4 +2,4 @@
     maxTotal="100" maxIdle="30" maxWaitMillis="10000"
     username="admin" password="akash123"
     driverClassName="com.mysql.cj.jdbc.Driver"
-    url="jdbc:mysql://studentdb-svc:3306/studentapp"/>
+    url="jdbc:mysql://database-1.cru2a806a2xh.us-east-1.rds.amazonaws.com:3306/studentapp"/>
